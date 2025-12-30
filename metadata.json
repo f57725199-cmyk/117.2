@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of SyllabusMaster 365",
+  "description": "A comprehensive 365-day academic roadmap for Classes 9-12 featuring progress tracking, month-wise content locking, and a dynamic tree-based learning path designed by Nadim Anwar.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
